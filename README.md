@@ -1,5 +1,9 @@
 ![Marlin Oyster Logo](./logo.svg)
 
+# Archival
+
+Archived in favour of https://github.com/marlinprotocol/oyster-monorepo
+
 # Raw Proxies
 
 This repository contains raw IP proxies used to tunnel IP traffic through a vsock interface. They are primarily used in the tuna family of images. This repository contains the following proxies:
